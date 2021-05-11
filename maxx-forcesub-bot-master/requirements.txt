@@ -1,3 +1,0 @@
-pyrogram
-sqlalchemy
-psycopg2
